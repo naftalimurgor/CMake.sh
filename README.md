@@ -15,7 +15,7 @@ To check installation, run:
 ```bash
 $ cmake --version
 ```
-If installation was successful, you'll see output like below:
+If the installation completed successfully, you'll see output like below:
 ```bash
 cmake version 3.5.1
 
