@@ -5,7 +5,7 @@ Bash script for setting up CMake on Ubuntu Linux versions: `16.04, 18.04 and 20.
 1. `git clone https://github.com/naftalimurgor/CMake.sh.git`
 2.  `cd CMake.sh`
 3. `sudo chmod +x install-cmake.sh`
-4. The excute script to setup cmake like:  
+4. Then excute script to setup cmake like:  
 ```bash
 $ ./install-cmake.sh
 ```
