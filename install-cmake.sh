@@ -101,3 +101,4 @@ fi
 apt-get update
 test -n "${get_keyring}" && rm /usr/share/keyrings/kitware-archive-keyring.gpg
 apt-get install -y kitware-archive-keyring
+apt-get install cmake
